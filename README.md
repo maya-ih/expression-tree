@@ -1,2 +1,2 @@
 # expression-tree
-Creating and evaluating a binary expression tree using prefix and postfix notation. 
+After creatong a binary expression tree, this programs uses a stack to evaluate a given expression in infix notation. The expression's solution, prefix notations, and postfix notation are outputed.
